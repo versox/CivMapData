@@ -1,0 +1,17 @@
+subworlds:Gimmel,Aleph,Tet,Bet,Zion,
+oldNorthWorlds:
+name:Salt River,x:-8,z:-292,y:51,enabled:true,red:0.10980392,green:0.35686275,blue:0.003921569,suffix:,world:Aleph,dimensions:0#
+name:Seby,x:-960,z:-954,y:-74,enabled:true,red:0.7267141,green:0.49864763,blue:0.54963076,suffix:,world:Tet,dimensions:0#
+name:New Salt,x:172,z:673,y:84,enabled:true,red:0.8734857,green:0.49709237,blue:0.022998571,suffix:,world:Bet,dimensions:0#
+name:New Scandinavia,x:422,z:392,y:56,enabled:true,red:0.85490197,green:0.8392157,blue:0.003921569,suffix:,world:Bet,dimensions:0#
+name:To Gimmel,x:428,z:1012,y:54,enabled:true,red:0.4266842,green:0.6679947,blue:0.9024472,suffix:,world:Bet,dimensions:0#
+name:To Bet,x:1010,z:-424,y:48,enabled:true,red:0.9220344,green:0.8304041,blue:0.70363766,suffix:,world:Gimmel,dimensions:0#
+name:Tunnel Entrance,x:271,z:672,y:84,enabled:true,red:0.37413985,green:0.46758026,blue:0.6506397,suffix:,world:Bet,dimensions:0#
+name:New Sibetia,x:-520,z:230,y:107,enabled:true,red:0.029497385,green:0.26118535,blue:0.17933333,suffix:,world:Bet,dimensions:0#
+name:Norillag,x:-169,z:474,y:53,enabled:true,red:0.047606707,green:0.48420548,blue:0.017763853,suffix:,world:Bet,dimensions:0#
+name:Tet Mine,x:936,z:-112,y:81,enabled:true,red:0.8676157,green:0.34467888,blue:0.89878315,suffix:,world:Tet,dimensions:0#
+name:Eggnog,x:215,z:-598,y:54,enabled:true,red:0.1596812,green:0.07819843,blue:0.33633888,suffix:,world:Bet,dimensions:0#
+name:Meridian,x:440,z:720,y:80,enabled:true,red:0.52937454,green:0.51870924,blue:0.3789854,suffix:,world:Aleph,dimensions:0#
+name:IS4NTA,x:559,z:-799,y:70,enabled:true,red:0.21428186,green:0.04300171,blue:0.1308114,suffix:,world:Aleph,dimensions:0#
+name:Mining Tunnel,x:-3,z:-318,y:80,enabled:true,red:0.4782005,green:0.9663687,blue:0.41297227,suffix:,world:Tet,dimensions:0#
+name:Breakout,x:-520,z:660,y:59,enabled:true,red:0.89765155,green:0.9335293,blue:0.55378187,suffix:,world:Aleph,dimensions:0#
